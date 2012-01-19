@@ -1,0 +1,21 @@
+[submodule ".vim/bundle-available/desert.vim"]
+	path = .vim/bundle-available/desert.vim
+	url = https://github.com/fugalh/desert.vim
+[submodule ".vim/bundle-available/jslint.vim"]
+	path = .vim/bundle-available/jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
+[submodule ".vim/bundle-available/mango.vim"]
+	path = .vim/bundle-available/mango.vim
+	url = https://github.com/goatslacker/mango.vim
+[submodule ".vim/bundle-available/NERD_tree"]
+	path = .vim/bundle-available/NERD_tree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle-available/tabular"]
+	path = .vim/bundle-available/tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule ".vim/bundle-available/vim-jade"]
+	path = .vim/bundle-available/vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
+[submodule ".vim/bundle-available/vim-javascript"]
+	path = .vim/bundle-available/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
