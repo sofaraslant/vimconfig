@@ -47,6 +47,12 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 
+let NERDTreeDirArrows=0
+
+"insert line below/above and exit insert mode
+map <F8> o<Esc>
+map <F9> O<Esc>
+
 "imap <C-SPACE> <ESC>
 imap <C-;> <ESC>
 
